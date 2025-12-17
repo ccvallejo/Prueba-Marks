@@ -4,7 +4,7 @@
 Este repositorio contiene los módulos de **pruebas automatizadas y funcionales**. Incluye:
 
 1. **Módulo de Automatización – Smoke Test (SauceDemo)**  
-   - **Nota:** No se completó la prueba de login exitoso con credenciales válidas debido a desconocimiento en la automatización.  
+   - **Nota:** No se completó la prueba de login exitoso con credenciales válidas.  
    - Se abordaron aspectos teóricos y preparación del entorno para realizar la prueba.
 
 2. **Módulo Funcional – Producto ficticio MakersPay**  
